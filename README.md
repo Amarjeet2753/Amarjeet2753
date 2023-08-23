@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React JS,MERN Stack Development,Frontend Development**
 
-- 📫 How to reach me **dhaneshwartripathi685@gmail.com**
+- 📫 How to reach me **amarjeet275303@gmail.com**
 
 - ⚡ Fun fact **Yeah! I think I'm Funny😎**
 
